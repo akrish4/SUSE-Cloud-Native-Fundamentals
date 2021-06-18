@@ -22,8 +22,9 @@ Microservice Fundamentals course outline
 - Container Orchestration
 - Open Source PaaS
 - Cloud Native CI/CD
-- In the first lesson, we will cover:
+
 - --------
+In the first lesson, we will cover:
 - Introduction to Cloud Native
 - CNCF and Cloud Native tooling
 - Stakeholders
